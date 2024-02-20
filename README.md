@@ -1,4 +1,4 @@
-# Jira-and-Zephyr
+# Jira-and-Zephyr - Testing project for OrangeHRM
 Functional specifications
 The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
 
