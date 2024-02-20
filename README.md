@@ -52,8 +52,6 @@ Test cases:
 
 The test cases with steps can be viewed here: Dependents_test_cases.pdf
 
-For the Dependants API, the following checklist was generated: API_test_checklist.csv
-
 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
