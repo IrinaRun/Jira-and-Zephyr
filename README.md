@@ -72,7 +72,7 @@ Full regression testing is needed after the bugs are fixed
 
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-The traceability matrix was generated and can be found here: Traceability_matrix.csv
-Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23
-A number of 23 test cases were planned for execution and all of them were executed
-A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
+The traceability matrix was generated and can be found here: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/Traceability_20_2_2024.xlsx
+Test execution chart was generated, the final report shows that a number 6 tests have failed of a total of 41
+A number of 41 test cases were planned for execution and all of them were executed
+A number of 6 total bugs were found
