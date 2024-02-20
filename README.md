@@ -63,7 +63,7 @@ Postman collection with the dependents API methods was created
 Authorization token was created for accessing the API
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/tests_execution.docx
-Bugs have been created based on the failed tests. The complete bug reports can be found here: Dependents_created_bugs.pdf
+Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/bugs.docx
 Date format is not dd/mm/yyyy
 Future "Date of Birth" can be selected from calendar
 Only 50 characters are allowed for "Please Specify" field
