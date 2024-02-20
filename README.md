@@ -50,7 +50,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 Test cases:
 
-The test cases with steps can be viewed here: 
+The test cases with steps can be viewed here: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/Jira-Test%20cases.doc
 
 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
