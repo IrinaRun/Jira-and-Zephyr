@@ -59,8 +59,7 @@ Testing environment is up and running: https://opensource-demo.orangehrmlive.com
 Access to the testing environment is given: Username : Admin | Password : admin123
 Cycle summary was created
 Test cases were added to the cycle summary
-Postman collection with the dependents API methods was created
-Authorization token was created for accessing the API
+
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/tests_execution.docx
 Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/bugs.docx
@@ -69,8 +68,8 @@ Future "Date of Birth" can be selected from calendar
 Only 50 characters are allowed for "Please Specify" field
 Only 50 characters are allowed for "Name" field
 Relationship "parent" is missing
-API tests are executed based on the checklist. The collection used can be found here: JSON file with the collection of requests created for the Dependents API
 Full regression testing is needed after the bugs are fixed
+
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 The traceability matrix was generated and can be found here: Traceability_matrix.csv
