@@ -69,6 +69,15 @@ Test cases were added to the cycle summary
 Test cases are executed on the created test Cycle summary: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/tests_execution.docx
 Test cases with all the steps can be viewed here: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20(Jira).pdf
 Bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/bugs.docx
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-32.pdf
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-33.pdf
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-34.pdf
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-38.pdf
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-39.pdf
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-48.pdf
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-65.pdf
+https://github.com/IrinaRun/Jira-and-Zephyr/blob/main/RIT-72.pdf
+
 Date format is not dd/mm/yyyy
 Future "Date of Birth" can be selected from calendar
 Only 50 characters are allowed for "Please Specify" field
